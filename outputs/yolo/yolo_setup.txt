@@ -1,0 +1,4 @@
+=== YOLO Setup ===
+
+Summary
+{'data_yaml': 'outputs/yolo_dataset/data.yaml', 'status': 'dataset prepared'}

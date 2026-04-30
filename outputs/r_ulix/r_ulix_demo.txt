@@ -1,0 +1,4 @@
+=== R-ULIx Demo ===
+
+Summary
+{'output_shape': [2, 16, 64], 'route_shape': [2, 4]}

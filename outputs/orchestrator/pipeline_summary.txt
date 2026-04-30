@@ -1,0 +1,4 @@
+=== Medical Orchestrator Summary ===
+
+Payload
+{'classification': {'label': 'polyp', 'confidence': 0.9132, 'logits': None}, 'num_boxes': 0, 'num_masks': 0, 'reasoning': {'summary': 'Predicted polyp with confidence 0.9132.', 'num_boxes': 0, 'num_masks': 0}}
